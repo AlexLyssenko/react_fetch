@@ -7,7 +7,6 @@ const App = () => {
     return (
         <>
             <Helmet>
-                <meta name="google-site-verification" content="A_WMxsHStyuT_xuG0Wj6tzpFxeQqSAD0YyCCk27OgLI" />
                 <title>Fetch react</title>
             </Helmet>
 
